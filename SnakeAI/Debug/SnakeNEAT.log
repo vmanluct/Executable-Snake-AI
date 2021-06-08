@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Game.cpp(62,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SnakeNEAT.vcxproj -> C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Debug\SnakeNEAT.exe
