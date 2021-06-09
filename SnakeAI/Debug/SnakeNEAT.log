@@ -1,0 +1,50 @@
+﻿  Game.cpp
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Game.cpp(62,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  MatrixHandler.cpp
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\MatrixHandler.cpp(157,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\MatrixHandler.cpp(176,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\MatrixHandler.cpp(177,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  NeuralNet.cpp
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\NeuralNet.cpp(144,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\NeuralNet.cpp(176,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\NeuralNet.cpp(210,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Population.cpp
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Population.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Population.cpp(136,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Population.cpp(143,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Snake.cpp
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(41,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(41,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(51,31): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=Eigen::Index
+          ]
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(52,32): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=Eigen::Index
+          ]
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(109,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(109,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(153,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(153,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(171,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(171,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(181,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(202,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(202,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(466,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(467,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(468,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(471,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(472,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(473,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(474,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(477,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(478,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(479,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Snake.cpp(480,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SnakeNEAT.vcxproj -> C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Debug\SnakeNEAT.exe
