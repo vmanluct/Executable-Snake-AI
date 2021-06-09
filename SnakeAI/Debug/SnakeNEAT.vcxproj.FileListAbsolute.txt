@@ -1,2 +1,0 @@
-C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Debug\SnakeNEAT.exe
-C:\Users\vince\OneDrive\Documents\VisualStudioProjects\SnakeNEAT\Debug\SnakeNEAT.pdb
